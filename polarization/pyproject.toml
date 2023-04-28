@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "polarization"
+version = "0.1.0"
+description = ""
+authors = ["Paolo Prodossimo Lopes <paolo.prodossimo.lopes@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
