@@ -10,3 +10,6 @@
 - [docs] MKDocs Material
 - [docs] MKDocstrings
 - [docs] MKDocstrings-Python
+
+## Runing Lint:
+runs the command `task lint` to fix all guidelines deviation and unorder imports
