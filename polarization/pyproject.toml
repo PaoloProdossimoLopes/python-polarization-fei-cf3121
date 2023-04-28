@@ -34,3 +34,8 @@ line_length = 79
 
 [tool.taskipy.tasks]
 lint = "blue . && isort ."
+doc = "mkdocs serve"
+
+pre_test = "task lint"
+test = "pytest -s -x --cov=polarization -vv"
+post_test = "coverage html"
