@@ -5,6 +5,7 @@
 - [dev] Pytest-Cov
 - [dev] Blue
 - [dev] isort
+- [dev] taskipy
 
 - [docs] MKDocs Material
 - [docs] MKDocstrings
