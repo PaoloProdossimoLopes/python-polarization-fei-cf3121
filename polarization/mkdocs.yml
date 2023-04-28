@@ -1,0 +1,17 @@
+site_name: Polarization
+
+repo_name: paolo/Polarization
+repo_url: https://github.com/PaoloProdossimoLopes/python-polarization-fei-cf3121
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  # language: pt-BR
+
+markdown_extensions: 
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
